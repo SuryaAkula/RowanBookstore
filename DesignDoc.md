@@ -10,3 +10,6 @@
 * After the student checks out, he/she can see where the book is located in the library such as floor number and rack number.
 * Students should be able to return books by the due date.
 * This webapp is basically hosted on AWS and mongoDb with react JS, Node JS and Express framework.
+
+##### Mockups:
+* Homepage
