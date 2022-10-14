@@ -13,3 +13,6 @@
 
 ##### Mockups:
 * Homepage
+![Homepage](pics/Dashboard.jpg)
+* [/api/users/login]
+* [/api/users/wincount]
